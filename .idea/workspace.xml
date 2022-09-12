@@ -61,7 +61,7 @@
   </component>
   <component name="RunManager">
     <configuration name="exercice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2020A_ch2_ecriture" />
+      <module name="ch2-solution" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -107,6 +107,9 @@
       <workItem from="1662755324241" duration="631000" />
       <workItem from="1662756497712" duration="72000" />
       <workItem from="1663001503264" duration="19000" />
+      <workItem from="1663001613054" duration="106000" />
+      <workItem from="1663001732517" duration="10000" />
+      <workItem from="1663001762827" duration="5000" />
     </task>
     <servers />
   </component>
